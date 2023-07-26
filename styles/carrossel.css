@@ -25,3 +25,8 @@
   justify-content: space-betwen;
   margin-bottom: 0.5em;
 }
+
+,card_botões {
+  display: flex;
+  justify-content: space-betwen;
+}
