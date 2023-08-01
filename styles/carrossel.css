@@ -80,3 +80,11 @@
     margin: 0 20vh 3em 20vw;
     align-items: center;
   }
+
+  .swiper {
+    margin: 1em 0;
+  }
+
+.swiper {
+  width: 50%;
+}
