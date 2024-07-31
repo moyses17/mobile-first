@@ -1,5 +1,5 @@
 banner {
-    background: var(--azul-degrade);
+    background: linear-gradient(90deg, yellow, white);
     color: var(--branco);
     text-align: center;
     padding: 2.5em 2em;
